@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/flipper/static/css/main.86a13afe.css",
+    "main.js": "/flipper/static/js/main.5ceefe34.js",
+    "index.html": "/flipper/index.html",
+    "main.86a13afe.css.map": "/flipper/static/css/main.86a13afe.css.map",
+    "main.5ceefe34.js.map": "/flipper/static/js/main.5ceefe34.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86a13afe.css",
+    "static/js/main.5ceefe34.js"
+  ]
+}
